@@ -15,7 +15,9 @@ Key findings: 74% of 50 European AI companies trigger high-risk classification Â
 
 ## Open repositories
 
-- [`acts-for-ai-agents`](https://github.com/sprinkling-act/acts-for-ai-agents) â€” 4 system prompts that make AI agents EU AI Act-aware. The 4 ACTS framework.
+- [`methodology`](https://github.com/sprinkling-act/methodology): the 6-gate framework for classifying an AI system under the EU AI Act.
+- [`zenodo-mirror`](https://github.com/sprinkling-act/zenodo-mirror): index of published research, with DOIs.
+- [`timestamps`](https://github.com/sprinkling-act/timestamps): OpenTimestamps cryptographic proofs for published reports.
 
 ## About
 
