@@ -21,8 +21,8 @@ Key findings: 74% of 50 European AI companies trigger high-risk classification Â
 
 ## About
 
-Sprinkling Act is an independent pre-conformity advisory firm registered in Brussels (BCE BE 1034.962.482). Self-funded. No venture capital. No advisory board. No commercial relationship with AI vendors, regulators, or certification bodies.
+Sprinkling Act is an independent pre-conformity assessment firm registered in Brussels (BCE BE 1034.962.482). Self-funded. No venture capital. No advisory board. No commercial relationship with AI vendors, regulators, or certification bodies.
 
 - Website: [sprinklingact.com](https://sprinklingact.com)
-- About the analyst: [Lamar B. Shucrani](https://sprinklingact.com/about/lamar-shucrani)
+- About the analyst: [Lamar B. Shucrani](https://sprinklingact.com/about/lamar-b-shucrani)
 - ORCID: [0009-0002-5093-8550](https://orcid.org/0009-0002-5093-8550)
